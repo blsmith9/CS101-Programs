@@ -12,3 +12,4 @@ Program 1: Calculate Drone Flight Time</br>
 Program 2: Simulate Luggage Transport</br>
 Program 3: String Slice Learning Game</br>
 Program 4: Encrypt/Decrypt Text Files</br>
+Program 5: Convert PPM to Grayscale/Vintage</br>
